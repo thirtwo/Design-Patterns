@@ -12,3 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 853468ecc9e911e4ba8e3c8003003bfa, type: 3}
   m_Name: Wolf
   m_EditorClassIdentifier: 
+  enemySpeed: 1
+  enemyMaxHealth: 100
+  enemyColor: {r: 0.7264151, g: 0.404504, b: 0.09251513, a: 0}
