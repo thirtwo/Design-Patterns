@@ -4,4 +4,6 @@ Singleton Pattern
 
 Object Pool Pattern
 
-Flyweight Patter 
+Flyweight Pattern 
+
+Observer Pattern(With abstract classes and events both)
